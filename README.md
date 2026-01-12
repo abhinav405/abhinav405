@@ -15,7 +15,7 @@
 - 🧱 Love writing clean **Object-Oriented Code**
 - 🚀 Primary Language: **C++**
 - ⚽ Huge **Soccer** fan
-- 💬 Ask me anything about **DSA, OOPs, C++, or AI basics**
+- 💬 Ask me anything about **DSA, OOPs, C++, Web Dev or Machine Learning**
 
 ---
 
